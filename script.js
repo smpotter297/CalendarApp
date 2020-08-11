@@ -30,13 +30,13 @@ var timeblock = [ 9, 10, 11, 12, 13, 14, 15, 16, 17]
 
    //Listen for saved button click and add textarea data to local storage//
     $(".saveBtn").click(function(){
-        //var savedtime = $(this).attr("data-value");
         var descriptionInput = $(this).siblings(".description").val();
         //console.log(descriptionInput); 
         var descriptionId = $(this).siblings(".description").attr("id");
         //console.log(descriptionId); 
         localStorage.setItem(descriptionId,descriptionInput);
     });
+
     //Add saved events to page after refresh //
     function renderSavedDescriptions(){
         $(".description").each(function(){
@@ -46,7 +46,8 @@ var timeblock = [ 9, 10, 11, 12, 13, 14, 15, 16, 17]
         });
     };
     renderSavedDescriptions();
-    //Clear Local Storage//
+
+    //Clear Local Storage button functionality//
     $(".cleardata").click(function(){
         localStorage.clear();
         renderSavedDescriptions();
