@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-Created a simple daily event planner using HTML, Javascript, JQuery and CSS. Framework of page created with HTML and updted ot HTML made using JQuery. Moment JS library used for time/date functions.
+Created a simple daily event planner using HTML, Javascript, JQuery and CSS. Framework of page created with HTML and updates to HTML made using JQuery. Moment JS library used for time/date functions.
 
 ## User Story
 
