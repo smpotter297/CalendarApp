@@ -26,6 +26,8 @@ WHEN I click the save button for that timeblock
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+WHEN I click the Clear Data button
+THEN the local storage is cleared from the browser
 ```
 
 The following animation demonstrates the application functionality:
