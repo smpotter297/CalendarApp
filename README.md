@@ -29,10 +29,13 @@ THEN the saved events persist
 WHEN I click the Clear Data button
 THEN the local storage is cleared from the browser
 ```
+Screen shots of application:
 
-The following animation demonstrates the application functionality:
+images.githubusercontent.com/66710476/89908640-b9241500-dbb3-11ea-83d2-a925f9d71f2d.png">
 
-![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
+
+
+
 
 ## Review
 
