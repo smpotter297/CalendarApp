@@ -31,7 +31,7 @@ THEN the local storage is cleared from the browser
 ```
 Screen shots of application:
 
-images.githubusercontent.com/66710476/89908640-b9241500-dbb3-11ea-83d2-a925f9d71f2d.png">
+<img width="1792" alt="Screen Shot 2020-08-11 at 9 18 29 AM" src="https://user-images.githubusercontent.com/66710476/89908640-b9241500-dbb3-11ea-83d2-a925f9d71f2d.png">
 
 <img width="1792" alt="Screen Shot 2020-08-11 at 9 22 27 AM" src="https://user-images.githubusercontent.com/66710476/89909501-c42b7500-dbb4-11ea-8faa-3238603319db.png">
 
