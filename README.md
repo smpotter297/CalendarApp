@@ -31,19 +31,18 @@ THEN the local storage is cleared from the browser
 ```
 Screen shots of application:
 
+<img width="1787" alt="Screen Shot 2020-08-11 at 9 30 32 AM" src="https://user-images.githubusercontent.com/66710476/89911160-b8d94900-dbb6-11ea-9cd2-357a0343f73b.png">
 
-
-
-
+<img width="1771" alt="Screen Shot 2020-08-11 at 9 38 33 AM" src="https://user-images.githubusercontent.com/66710476/89911195-c098ed80-dbb6-11ea-940d-67e6a5ad6558.png">
 
 
 ## Review
 
-You are required to submit the following for review:
+The following has been submitted for review:
 
 * The URL of the deployed application.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* The URL of the GitHub repository.
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
